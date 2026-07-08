@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jaydip-bhut.vercel.app/](https://jaydip-bhut.vercel.app/)
 
-- 💬 Ask me about **react ,next.js etc.**
+- 💬 Ask me about **js etc.**
 
 - 📫 How to reach me **jaydipbhut08@gmail.com**
 
