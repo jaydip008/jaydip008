@@ -10,14 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://jaydip-bhut.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-jaydip--bhut.vercel.app-00F0FF?style=for-the-badge&logo=vercel&logoColor=04070A&labelColor=04070A" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jaydipbhut70/"><img src="https://img.shields.io/badge/LinkedIn-jaydipbhut70-39FF88?style=for-the-badge&logo=linkedin&logoColor=39FF88&labelColor=04070A" alt="LinkedIn" /></a>
-  <a href="mailto:jaydipbhut08@gmail.com"><img src="https://img.shields.io/badge/Email-jaydipbhut08@gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=04070A" alt="Email" /></a>
+  <a href="https://jaydip-bhut.vercel.app/"><code>[ portfolio ]</code></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jaydipbhut70/"><code>[ linkedin ]</code></a>&nbsp;
+  <a href="mailto:jaydipbhut08@gmail.com"><code>[ email ]</code></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaydip008&label=profile_views&color=00f0ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/status-available__for__projects-39FF88?style=flat-square&labelColor=04070A" alt="Status" />
+  <code>status: available_for_projects</code>
 </p>
 
 ---
@@ -120,10 +119,11 @@ const jaydip = {
 ### `// connect`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaydipbhut70/"><img src="https://img.shields.io/badge/LinkedIn-04070A?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/01bhut/"><img src="https://img.shields.io/badge/Instagram-04070A?style=for-the-badge&logo=instagram&logoColor=39FF88" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/01bhut"><img src="https://img.shields.io/badge/Facebook-04070A?style=for-the-badge&logo=facebook&logoColor=00F0FF" alt="Facebook" /></a>
-  <a href="https://jaydip-bhut.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-04070A?style=for-the-badge&logo=googlechrome&logoColor=39FF88" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jaydipbhut70/"><code>linkedin</code></a>&nbsp;·&nbsp;
+  <a href="https://www.instagram.com/01bhut/"><code>instagram</code></a>&nbsp;·&nbsp;
+  <a href="https://www.facebook.com/01bhut"><code>facebook</code></a>&nbsp;·&nbsp;
+  <a href="https://jaydip-bhut.vercel.app/"><code>portfolio</code></a>&nbsp;·&nbsp;
+  <a href="mailto:jaydipbhut08@gmail.com"><code>jaydipbhut08@gmail.com</code></a>
 </p>
 
 <p align="center"><sub><code>// thanks_for_visiting</code> · <a href="https://jaydip-bhut.vercel.app/">jaydip.dev</a></sub></p>
