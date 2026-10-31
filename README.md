@@ -83,36 +83,50 @@ $ ./deploy --list --status=live
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://gfresh.in/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-gfresh.jpg" alt="GFresh Ice Cream" /></a>
-      <br /><a href="https://gfresh.in/"><b>GFresh Ice Cream</b></a><br /><sub><code>ice-cream · india</code></sub><br /><a href="https://gfresh.in/"><code>live ↗</code></a>
+    <td align="center" width="50%" valign="top">
+      <a href="https://gfresh.in/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-gfresh.jpg" alt="GFresh Ice Cream — gfresh.in" /></a>
+      <h3>GFresh Ice Cream</h3>
+      <code>gfresh.in</code>&nbsp;&nbsp;<sub>ice cream brand · india</sub>
+      <br /><br />
     </td>
-    <td align="center" width="33%">
-      <a href="https://itolecsurfaces.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-itolec.jpg" alt="Itolec Surfaces" /></a>
-      <br /><a href="https://itolecsurfaces.com/"><b>Itolec Surfaces</b></a><br /><sub><code>porcelain-slabs · manufacturer</code></sub><br /><a href="https://itolecsurfaces.com/"><code>live ↗</code></a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://cosmozdrip.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-cosmozdrip.jpg" alt="Cosmozdrip" /></a>
-      <br /><a href="https://cosmozdrip.com/"><b>Cosmozdrip</b></a><br /><sub><code>streetwear · shopify</code></sub><br /><a href="https://cosmozdrip.com/"><code>live ↗</code></a>
+    <td align="center" width="50%" valign="top">
+      <a href="https://itolecsurfaces.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-itolec.jpg" alt="Itolec Surfaces — itolecsurfaces.com" /></a>
+      <h3>Itolec Surfaces</h3>
+      <code>itolecsurfaces.com</code>&nbsp;&nbsp;<sub>porcelain slab manufacturer</sub>
+      <br /><br />
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://optimount.com.au/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-optimount.jpg" alt="Optimount" /></a>
-      <br /><a href="https://optimount.com.au/"><b>Optimount</b></a><br /><sub><code>solar-cable-tray · australia</code></sub><br /><a href="https://optimount.com.au/"><code>live ↗</code></a>
+    <td align="center" width="50%" valign="top">
+      <a href="https://cosmozdrip.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-cosmozdrip.jpg" alt="Cosmozdrip — cosmozdrip.com" /></a>
+      <h3>Cosmozdrip</h3>
+      <code>cosmozdrip.com</code>&nbsp;&nbsp;<sub>streetwear store · shopify</sub>
+      <br /><br />
     </td>
-    <td align="center" width="33%">
-      <a href="https://afrikabanque.sn/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-afrikabanque.png" alt="Afrika Banque" /></a>
-      <br /><a href="https://afrikabanque.sn/"><b>Afrika Banque</b></a><br /><sub><code>banking · senegal</code></sub><br /><a href="https://afrikabanque.sn/"><code>live ↗</code></a>
+    <td align="center" width="50%" valign="top">
+      <a href="https://optimount.com.au/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-optimount.jpg" alt="Optimount — optimount.com.au" /></a>
+      <h3>Optimount</h3>
+      <code>optimount.com.au</code>&nbsp;&nbsp;<sub>solar cable trays · australia</sub>
+      <br /><br />
     </td>
-    <td align="center" width="33%">
-      <a href="https://jkmpcl.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-jkmpcl.png" alt="JKMPCL" /></a>
-      <br /><a href="https://jkmpcl.com/"><b>JKMPCL</b></a><br /><sub><code>dairy-cooperative · india</code></sub><br /><a href="https://jkmpcl.com/"><code>live ↗</code></a>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://afrikabanque.sn/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-afrikabanque.png" alt="Afrika Banque — afrikabanque.sn" /></a>
+      <h3>Afrika Banque</h3>
+      <code>afrikabanque.sn</code>&nbsp;&nbsp;<sub>banking · senegal</sub>
+      <br /><br />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://jkmpcl.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-jkmpcl.png" alt="JKMPCL — jkmpcl.com" /></a>
+      <h3>JKMPCL</h3>
+      <code>jkmpcl.com</code>&nbsp;&nbsp;<sub>dairy co-operative · india</sub>
+      <br /><br />
     </td>
   </tr>
 </table>
 
-<p align="center"><a href="https://jaydip-bhut.vercel.app/#portfolio"><code>→ view all projects</code></a></p>
+<p align="center"><sub>click any screenshot to open the live site</sub></p>
 
 <br />
 
@@ -156,16 +170,6 @@ jaydip@dev:~$ ls -la ~/skills
   <a href="https://github.com/jaydip008"><img src="https://streak-stats.demolab.com?user=jaydip008&hide_border=true&background=04070A&ring=00F0FF&fire=39FF88&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=E6FFF9&sideNums=E6FFF9&dates=7F9A99&stroke=0D2A2A" alt="GitHub streak" /></a>
 </p>
 
-<!-- Snake animation: needs .github/workflows/snake.yml in this repo -->
-<p align="center">
-  <a href="https://github.com/jaydip008">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaydip008/jaydip008/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaydip008/jaydip008/output/snake-light.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/jaydip008/jaydip008/output/snake-dark.svg" />
-  </picture>
-  </a>
-</p>
 
 <br />
 
