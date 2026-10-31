@@ -1,12 +1,12 @@
 <!-- ======================  HEADER  ====================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1200&pause=100000&color=39FF88&center=true&vCenter=true&repeat=false&width=600&height=30&lines=jaydip%40dev%3A~%24+whoami" alt="jaydip@dev:~$ whoami" />
+  <a href="https://jaydip-bhut.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1200&pause=100000&color=39FF88&center=true&vCenter=true&repeat=false&width=600&height=30&lines=jaydip%40dev%3A~%24+whoami" alt="jaydip@dev:~$ whoami" /></a>
   <br />
   <a href="https://jaydip-bhut.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=64&duration=1800&pause=100000&color=00F0FF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=jaydip.dev_" alt="jaydip.dev" />
   </a>
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9D7D6&center=true&vCenter=true&width=640&lines=WordPress+and+Front-end+Developer;Building+fast%2C+responsive+websites;Turning+designs+into+pixel-perfect+code;Now+exploring+DevOps+and+AWS" alt="WordPress and Front-end Developer" />
+  <a href="https://jaydip-bhut.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9D7D6&center=true&vCenter=true&width=640&lines=WordPress+and+Front-end+Developer;Building+fast%2C+responsive+websites;Turning+designs+into+pixel-perfect+code;Now+exploring+DevOps+and+AWS" alt="WordPress and Front-end Developer" /></a>
 </p>
 
 <p align="center">
@@ -44,6 +44,22 @@ jaydip@dev:~$ cat experience.log
   │
   ○  2023 ── 2024    Growup Business Solution     Web Developer
                      client websites · HTML · CSS · JS
+```
+
+<br />
+
+<!-- ======================  SHIPPED  ====================== -->
+### `// shipped`
+
+```bash
+$ ./deploy --list --status=live
+✔ gfresh.in              # ice-cream brand · india
+✔ itolecsurfaces.com     # porcelain slab manufacturer
+✔ cosmozdrip.com         # streetwear store · shopify
+✔ optimount.com.au       # solar cable trays · australia
+✔ afrikabanque.sn        # banking · senegal
+✔ jkmpcl.com             # dairy co-operative · india
+→ 6 sites live · 0 errors
 ```
 
 <br />
@@ -95,13 +111,13 @@ jaydip@dev:~$ ls ~/skills
 
 <p align="center">
   <code>web</code><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,wordpress,php,react,vue&theme=dark" alt="Web skills" />
+  <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,wordpress,php,react,vue&theme=dark" alt="Web skills" /></a>
   <br /><br />
   <code>design</code><br />
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="Design tools" />
+  <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="Design tools" /></a>
   <br /><br />
   <code>devops · learning</code><br />
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,aws,docker,githubactions,vercel&theme=dark" alt="DevOps tools" />
+  <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,aws,docker,githubactions,vercel&theme=dark" alt="DevOps tools" /></a>
 </p>
 
 <br />
@@ -110,25 +126,27 @@ jaydip@dev:~$ ls ~/skills
 ### `// github_stats`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaydip008&theme=github_dark" width="100%" alt="Profile details" />
+  <a href="https://github.com/jaydip008?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaydip008&theme=algolia" width="100%" alt="Profile details" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaydip008&theme=github_dark" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaydip008&theme=github_dark" width="49%" alt="Repos per language" />
+  <a href="https://github.com/jaydip008?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaydip008&theme=algolia" width="49%" alt="Stats" /></a>
+  <a href="https://github.com/jaydip008?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaydip008&theme=algolia" width="49%" alt="Repos per language" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaydip008&hide_border=true&background=04070A&ring=00F0FF&fire=39FF88&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=E6FFF9&sideNums=E6FFF9&dates=7F9A99&stroke=0D2A2A" alt="GitHub streak" />
+  <a href="https://github.com/jaydip008"><img src="https://streak-stats.demolab.com?user=jaydip008&hide_border=true&background=04070A&ring=00F0FF&fire=39FF88&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=E6FFF9&sideNums=E6FFF9&dates=7F9A99&stroke=0D2A2A" alt="GitHub streak" /></a>
 </p>
 
 <!-- Snake animation: needs .github/workflows/snake.yml in this repo -->
 <p align="center">
+  <a href="https://github.com/jaydip008">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaydip008/jaydip008/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaydip008/jaydip008/output/snake-light.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/jaydip008/jaydip008/output/snake-dark.svg" />
   </picture>
+  </a>
 </p>
 
 <br />
@@ -151,5 +169,5 @@ jaydip@dev:~$ ./contact.sh
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1500&color=7F9A99&center=true&vCenter=true&width=500&lines=%2F%2F+thanks_for_visiting;%2F%2F+let's+build+something+together_" alt="thanks for visiting" />
+  <a href="https://jaydip-bhut.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1500&color=7F9A99&center=true&vCenter=true&width=500&lines=%2F%2F+thanks_for_visiting;%2F%2F+let's+build+something+together_" alt="thanks for visiting" /></a>
 </p>
