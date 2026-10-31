@@ -1,7 +1,5 @@
-<!-- Header banner (banner.svg lives in this repo) -->
-<p align="center">
-  <a href="https://jaydip-bhut.vercel.app/"><img src="./banner.svg" width="100%" alt="jaydip.dev — WordPress &amp; Front-end Developer" /></a>
-</p>
+<!-- Header banner -->
+<a href="https://jaydip-bhut.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:00F0FF,100:39FF88&text=jaydip.dev&fontColor=04070A&fontSize=52&fontAlignY=36&desc=WordPress%20and%20Front-end%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="jaydip.dev banner" /></a>
 
 <p align="center">
   <a href="https://jaydip-bhut.vercel.app/">
