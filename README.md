@@ -1,5 +1,7 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F0FF,100:39FF88&text=jaydip.dev&fontColor=04070A&fontSize=52&fontAlignY=38&desc=WordPress%20%26%20Front-end%20Developer&descAlignY=60&descSize=18" width="100%" alt="jaydip.dev banner" />
+<!-- Header banner (banner.svg lives in this repo) -->
+<p align="center">
+  <a href="https://jaydip-bhut.vercel.app/"><img src="./banner.svg" width="100%" alt="jaydip.dev — WordPress &amp; Front-end Developer" /></a>
+</p>
 
 <p align="center">
   <a href="https://jaydip-bhut.vercel.app/">
@@ -108,11 +110,6 @@ const jaydip = {
 ---
 
 ### `// github_stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaydip008&show_icons=true&hide_border=true&bg_color=04070A&title_color=00F0FF&icon_color=39FF88&text_color=C9D7D6&ring_color=00F0FF" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip008&layout=compact&hide_border=true&bg_color=04070A&title_color=00F0FF&text_color=C9D7D6" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jaydip008&hide_border=true&background=04070A&ring=00F0FF&fire=39FF88&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=E6FFF9&sideNums=E6FFF9&dates=7F9A99&stroke=0D2A2A" alt="GitHub streak" />
