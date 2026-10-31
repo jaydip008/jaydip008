@@ -9,12 +9,26 @@
   <a href="https://jaydip-bhut.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9D7D6&center=true&vCenter=true&width=640&lines=WordPress+and+Front-end+Developer;Building+fast%2C+responsive+websites;Turning+designs+into+pixel-perfect+code;Now+exploring+DevOps+and+AWS" alt="WordPress and Front-end Developer" /></a>
 </p>
 
-<p align="center">
-  <a href="https://jaydip-bhut.vercel.app/"><code>[ portfolio ]</code></a>&nbsp;
-  <a href="https://jaydip-bhut.vercel.app/#portfolio"><code>[ projects ]</code></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jaydipbhut70/"><code>[ linkedin ]</code></a>&nbsp;
-  <a href="mailto:jaydipbhut08@gmail.com"><code>[ email ]</code></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="44" alt="portfolio" /></a>
+      <br /><a href="https://jaydip-bhut.vercel.app/"><code>portfolio</code></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://jaydip-bhut.vercel.app/#portfolio"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="44" alt="projects" /></a>
+      <br /><a href="https://jaydip-bhut.vercel.app/#portfolio"><code>projects</code></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.linkedin.com/in/jaydipbhut70/"><img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="44" alt="linkedin" /></a>
+      <br /><a href="https://www.linkedin.com/in/jaydipbhut70/"><code>linkedin</code></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="mailto:jaydipbhut08@gmail.com"><img src="https://skillicons.dev/icons?theme=dark&i=gmail" width="44" alt="email" /></a>
+      <br /><a href="mailto:jaydipbhut08@gmail.com"><code>email</code></a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -71,29 +85,29 @@ $ ./deploy --list --status=live
   <tr>
     <td align="center" width="33%">
       <a href="https://gfresh.in/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-gfresh.jpg" alt="GFresh Ice Cream" /></a>
-      <br /><b>GFresh Ice Cream</b><br /><sub><code>ice-cream · india</code></sub>
+      <br /><a href="https://gfresh.in/"><b>GFresh Ice Cream</b></a><br /><sub><code>ice-cream · india</code></sub><br /><a href="https://gfresh.in/"><code>live ↗</code></a>
     </td>
     <td align="center" width="33%">
       <a href="https://itolecsurfaces.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-itolec.jpg" alt="Itolec Surfaces" /></a>
-      <br /><b>Itolec Surfaces</b><br /><sub><code>porcelain-slabs · manufacturer</code></sub>
+      <br /><a href="https://itolecsurfaces.com/"><b>Itolec Surfaces</b></a><br /><sub><code>porcelain-slabs · manufacturer</code></sub><br /><a href="https://itolecsurfaces.com/"><code>live ↗</code></a>
     </td>
     <td align="center" width="33%">
       <a href="https://cosmozdrip.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-cosmozdrip.jpg" alt="Cosmozdrip" /></a>
-      <br /><b>Cosmozdrip</b><br /><sub><code>streetwear · shopify</code></sub>
+      <br /><a href="https://cosmozdrip.com/"><b>Cosmozdrip</b></a><br /><sub><code>streetwear · shopify</code></sub><br /><a href="https://cosmozdrip.com/"><code>live ↗</code></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://optimount.com.au/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-optimount.jpg" alt="Optimount" /></a>
-      <br /><b>Optimount</b><br /><sub><code>solar-cable-tray · australia</code></sub>
+      <br /><a href="https://optimount.com.au/"><b>Optimount</b></a><br /><sub><code>solar-cable-tray · australia</code></sub><br /><a href="https://optimount.com.au/"><code>live ↗</code></a>
     </td>
     <td align="center" width="33%">
       <a href="https://afrikabanque.sn/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-afrikabanque.png" alt="Afrika Banque" /></a>
-      <br /><b>Afrika Banque</b><br /><sub><code>banking · senegal</code></sub>
+      <br /><a href="https://afrikabanque.sn/"><b>Afrika Banque</b></a><br /><sub><code>banking · senegal</code></sub><br /><a href="https://afrikabanque.sn/"><code>live ↗</code></a>
     </td>
     <td align="center" width="33%">
       <a href="https://jkmpcl.com/"><img src="https://raw.githubusercontent.com/jaydip008/my-portfolio/main/assets/images/project-jkmpcl.png" alt="JKMPCL" /></a>
-      <br /><b>JKMPCL</b><br /><sub><code>dairy-cooperative · india</code></sub>
+      <br /><a href="https://jkmpcl.com/"><b>JKMPCL</b></a><br /><sub><code>dairy-cooperative · india</code></sub><br /><a href="https://jkmpcl.com/"><code>live ↗</code></a>
     </td>
   </tr>
 </table>
@@ -106,19 +120,23 @@ $ ./deploy --list --status=live
 ### `// tech_stack`
 
 ```text
-jaydip@dev:~$ ls ~/skills
+jaydip@dev:~$ ls -la ~/skills
 ```
 
-<p align="center">
-  <code>web</code><br />
-  <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,wordpress,php,react,vue&theme=dark" alt="Web skills" /></a>
-  <br /><br />
-  <code>design</code><br />
-  <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="Design tools" /></a>
-  <br /><br />
-  <code>devops · learning</code><br />
-  <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?i=git,github,linux,bash,aws,docker,githubactions,vercel&theme=dark" alt="DevOps tools" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="18%"><code>./web</code></td>
+    <td align="center"><a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?theme=dark&i=html,css,js,bootstrap,sass,wordpress,php,react,vue&perline=9" alt="web skills" /></a><br /><sub><code>html · css · js · wordpress · php</code></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="18%"><code>./design</code></td>
+    <td align="center"><a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?theme=dark&i=figma,ai,ps&perline=9" alt="design skills" /></a><br /><sub><code>figma · illustrator · photoshop</code></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="18%"><code>./devops</code></td>
+    <td align="center"><a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?theme=dark&i=git,github,linux,bash,aws,docker,githubactions,vercel&perline=9" alt="devops skills" /></a><br /><sub><code>git · linux · aws · docker · ci/cd <sub>(learning)</sub></code></sub></td>
+  </tr>
+</table>
 
 <br />
 
@@ -155,16 +173,35 @@ jaydip@dev:~$ ls ~/skills
 ### `// connect`
 
 ```text
-jaydip@dev:~$ ./contact.sh
+jaydip@dev:~$ ./contact.sh --all
 ```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaydipbhut70/"><code>linkedin</code></a>&nbsp;·&nbsp;
-  <a href="https://www.instagram.com/01bhut/"><code>instagram</code></a>&nbsp;·&nbsp;
-  <a href="https://www.facebook.com/01bhut"><code>facebook</code></a>&nbsp;·&nbsp;
-  <a href="https://jaydip-bhut.vercel.app/"><code>portfolio</code></a>&nbsp;·&nbsp;
-  <a href="mailto:jaydipbhut08@gmail.com"><code>jaydipbhut08@gmail.com</code></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/jaydipbhut70/"><img src="https://skillicons.dev/icons?theme=dark&i=linkedin" width="44" alt="linkedin" /></a>
+      <br /><a href="https://www.linkedin.com/in/jaydipbhut70/"><code>linkedin</code></a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.instagram.com/01bhut/"><img src="https://skillicons.dev/icons?theme=dark&i=instagram" width="44" alt="instagram" /></a>
+      <br /><a href="https://www.instagram.com/01bhut/"><code>instagram</code></a>
+    </td>
+    <td align="center" width="20%">
+      <a href="mailto:jaydipbhut08@gmail.com"><img src="https://skillicons.dev/icons?theme=dark&i=gmail" width="44" alt="email" /></a>
+      <br /><a href="mailto:jaydipbhut08@gmail.com"><code>email</code></a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/jaydip008"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="44" alt="github" /></a>
+      <br /><a href="https://github.com/jaydip008"><code>github</code></a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://jaydip-bhut.vercel.app/"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="44" alt="portfolio" /></a>
+      <br /><a href="https://jaydip-bhut.vercel.app/"><code>portfolio</code></a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://www.facebook.com/01bhut"><code>facebook</code></a>&nbsp;·&nbsp;<a href="mailto:jaydipbhut08@gmail.com"><code>jaydipbhut08@gmail.com</code></a></p>
 
 <br />
 
