@@ -1,10 +1,12 @@
-<!-- Header banner -->
-<a href="https://jaydip-bhut.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:00F0FF,100:39FF88&text=jaydip.dev&fontColor=04070A&fontSize=52&fontAlignY=36&desc=WordPress%20and%20Front-end%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="jaydip.dev banner" /></a>
-
+<!-- Header: terminal-style, transparent so it blends with GitHub's background -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1200&pause=100000&color=39FF88&center=true&vCenter=true&repeat=false&width=600&height=30&lines=~%2Fportfolio+%24+whoami" alt="~/portfolio $ whoami" />
+  <br />
   <a href="https://jaydip-bhut.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Jaydip+Bhut+%F0%9F%91%8B;WordPress+%26+Front-end+Developer;Building+fast%2C+responsive+websites;Now+exploring+DevOps+%26+AWS" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=64&duration=1800&pause=100000&color=00F0FF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=jaydip.dev_" alt="jaydip.dev" />
   </a>
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=C9D7D6&center=true&vCenter=true&width=640&lines=WordPress+and+Front-end+Developer;Building+fast%2C+responsive+websites;Now+exploring+DevOps+and+AWS" alt="WordPress and Front-end Developer" />
 </p>
 
 <p align="center">
@@ -124,4 +126,4 @@ const jaydip = {
   <a href="https://jaydip-bhut.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-04070A?style=for-the-badge&logo=googlechrome&logoColor=39FF88" alt="Portfolio" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:39FF88,100:00F0FF" width="100%" alt="" />
+<p align="center"><sub><code>// thanks_for_visiting</code> · <a href="https://jaydip-bhut.vercel.app/">jaydip.dev</a></sub></p>
